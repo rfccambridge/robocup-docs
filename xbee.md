@@ -7,7 +7,7 @@ Install XTCU and follow all of the settings. Make sure that your user has access
 
 ## Installing C++/XBEE Library
 
-TODO: Write about C++ Xbee library
+We are currently using (libxbee)[https://github.com/attie/libxbee3], an xbee library for C/C++. The library files should already be inside ```common/include``` in the robocup-software repository, but just in case you can get the source code from the libxbee library github. 
 
 ## Currently Used XBEE Settings
 

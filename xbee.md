@@ -1,6 +1,11 @@
 # RobocupMaster
 
-CH - F
+* CH - F
+
+
+
+
+
 ID - 4200
 CE - Coordinator [1]
 A2 - 000b

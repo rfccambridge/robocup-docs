@@ -7,7 +7,7 @@ Install XTCU and follow all of the settings. Make sure that your user has access
 
 Installing XTCU into your home directory ```~/``` will make your life easier. On the Robocup computers, there should be an alias
 ```
-alias xtcu=sudo ./XTCU-NG/launcher
+alias xtcu="sudo sh ~/XCTU-NG/launcher"
 ```
 
 ## Installing C++/XBEE Library

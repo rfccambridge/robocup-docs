@@ -14,6 +14,11 @@ alias xtcu="sudo sh ~/XCTU-NG/launcher"
 
 We are currently using [libxbee](https://github.com/attie/libxbee3), an xbee library for C/C++. The library files should already be inside ```common/include``` in the robocup-software repository, but just in case you can get the source code from the libxbee library github. 
 
+
+## Manual Control XBEE
+
+The Manual Control XBEE is the one with API MODE OFF and with the name RobocupHumanCommand. Used to connect with XTCU in console mode so you can send ASCII easily to other xbees. Mainly used for wasd controls. 
+
 ## Currently Used XBEE Settings
 
 ### RobocupMaster

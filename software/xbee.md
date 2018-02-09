@@ -1,6 +1,6 @@
 # XBEES
 
-Most of the xbee test scripts 
+Most of the xbee test scripts are in ```robocup/firmware```. 
 
 
 ## Debugging
